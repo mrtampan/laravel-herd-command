@@ -2,9 +2,9 @@
 
 
 ## Start Laravel herd project
-``cd ./projectname``
-``herd link``
+``cd ./projectname
+herd link``
 
 ## Stop Laravel herd project
-``cd ./projectname``
-``herd unlink projectname``
+``cd ./projectname
+herd unlink projectname``
